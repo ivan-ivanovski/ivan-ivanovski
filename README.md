@@ -1,7 +1,5 @@
 
-<img src="" alt="This is hero welcome image"/>
-# Hi there 👋
-<hr>
+<img src="image_hero.jpg" alt="This is hero welcome image"/>
 <div>
     <h2 style="color: aquamarine;font-family: monospace;">Who Am I?</h2>
     <h3>I am Ivan Ivanovski</h3>
@@ -12,5 +10,10 @@
     <h3 style="color: aquamarine;font-family: monospace;">Skills</h3>
     <p>Current focusing on: PHP/MySQL, ui/ux design and design patterns.</p>
     <p>HTML5, CSS3, JavaScript, Canva, Photoshop, UI/UX, Figma, WordPress, Elementor, WooCommerce,</p>
+</div>
+<div>
+    <h3 style="color: aquamarine;font-family: monospace;">Social</h3>
+    <p>📧 ivandev.contact@gmail.com</p>
+    <p>👥 linkedin.com/in/ivan-ivanovski</p>
 </div>
 
